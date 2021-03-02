@@ -7,3 +7,5 @@
 >  **6)** UI_3_AutomationChallenge ile Excelden alınan veriler http://www.rpachallenge.com/ sitesinde her Submit butonuna basıldığında yeri değişen Textboxlara Anchor Base kullanılarak yazdırıldı.
 >  **7)** UI_4_ATMBalance ile State Machine kullanılar ATM den para çekme uygulaması yapıldı.
 >  **8)** UI_5_RealEstateWebScraping ile Data Scraping kullanılarak https://www.zillow.com/ sitesinden  New York şehri aratıldı ve ilk 50 mülkün Fiyat, Yatak odası, Banyo, Alan ve adres değerleri String Metodlarıyla düzenlenerek ve Build Data Table, Filter Data table, Sort Data Table, Add Data Row, Write Range aktiviteleri kullanılarak excele yazdırıldı. 
+>  **9)** UI_6_PDFInvoıceScraping ile Data Scraping ve Anchor Base kullanarak 100 adet PDFteki Amount, Company, Invoice, Customer ID değerleri alınıp Excel'e yazdırıldı.
+>  **10)** UI_7_ScreenScrapingOCR ile Screen Scraping ve OCR kullanılarak resim halinde olan PDF lerdeki Product Name, Company Name, Model Name, Address değerleri alınarak .txt dosyasına yazdırıldı.
